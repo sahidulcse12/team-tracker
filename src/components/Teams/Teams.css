@@ -1,0 +1,13 @@
+.single-team{
+    border : 1px solid white;
+    border-radius : 10px;
+    text-align: center;
+    padding: 20px 0;
+    background-color: purple;
+    color: white;
+}
+
+.single-team img{
+    height: 150px;
+    width: 150px;
+}

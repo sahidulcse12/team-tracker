@@ -1,0 +1,19 @@
+.home-part {
+    height: 250px;
+    width: 100%;
+    background-image: url('../Images/nou.jpg');
+    background-repeat : no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.home-part h3{
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+
