@@ -17,7 +17,7 @@ const TeamDetail = () => {
         fetch(`https://www.thesportsdb.com/api/v1/json/1/lookupteam.php?id=${idTeam}`)
             .then(res => res.json())
             .then(data => setTeamDetails(data.teams))
-    }, [])
+    }, [idTeam])
 
 
     const showImage = (image) => {
