@@ -64,9 +64,9 @@ const TeamDetail = () => {
                         </div>
 
                         <div className="social-icons">
-                            <a href={`https://${teamDetail.strTwitter}`}><FontAwesomeIcon icon={faTwitter} /></a>
-                            <a href={`https://${teamDetail.strFacebook}`}><FontAwesomeIcon icon={faFacebook} /></a>
-                            <a href={`https://${teamDetail.strYoutube}`}><FontAwesomeIcon icon={faYoutube} /></a>
+                            <a target="_blank" href={`https://${teamDetail.strTwitter}`}><FontAwesomeIcon icon={faTwitter} /></a>
+                            <a target="_blank" href={`https://${teamDetail.strFacebook}`}><FontAwesomeIcon icon={faFacebook} /></a>
+                            <a target="_blank" href={`https://${teamDetail.strYoutube}`}><FontAwesomeIcon icon={faYoutube} /></a>
                         </div>
 
                     </div>

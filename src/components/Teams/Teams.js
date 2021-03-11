@@ -3,7 +3,6 @@ import { Button } from 'react-bootstrap';
 import { useHistory } from 'react-router';
 import './Teams.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { } from '@fortawesome/free-brands-svg-icons';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 
 
