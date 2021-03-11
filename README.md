@@ -12,3 +12,5 @@ Tools and Framework for this project
 10. ES6 functionality
 11. Html,css and fully
 12. Desktop and mobile responsive
+
+live site : https://604a13b08fb7048ccefa985c--goofy-ride-30fc6f.netlify.app/
